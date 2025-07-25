@@ -66,4 +66,4 @@ Below is a screenshot showing the quiz running in IntelliJ IDEA:
 
 ![Quiz Running in IntelliJ](Example.png)
 
-Submitted by Aniket Saini.
+Submitted by SHANTANU SHRIVASTAV
